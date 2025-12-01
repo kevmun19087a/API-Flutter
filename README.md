@@ -7,6 +7,10 @@ Nombre:  Kevin Muñoz
 
 [APK API FLUTTER](build/app/outputs/flutter-apk)
 
+## Video Probando en emulador
+
+[VIDEO APP](https://youtube.com/shorts/1gUfOet296w?feature=share)
+
 ## Buscar Pokémon
 
 La app permite buscar a los Pokémon mediante un cuadro de búsqueda.
