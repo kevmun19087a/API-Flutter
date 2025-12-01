@@ -38,3 +38,11 @@ Muestra:
 ## API DOG
 
 Obtiene automáticamente una imagen aleatoria de perro al abrir la pestaña y permite cargar nuevas imágenes pulsando un botón.
+
+## Tecnologías usadas
+- Tecnología	Uso
+- Flutter	Framework para construir la app
+- Dart	Lenguaje principal
+- HTTP package	Consumo de APIs
+- PokeAPI	Obtención de datos de Pokémon
+- Dog CEO API	Imágenes aleatorias de perros
